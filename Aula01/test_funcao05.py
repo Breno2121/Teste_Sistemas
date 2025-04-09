@@ -1,4 +1,4 @@
-from funcao import *
+from Aula01.funcao import *
 
 
 def test_verifica_maiusculo():

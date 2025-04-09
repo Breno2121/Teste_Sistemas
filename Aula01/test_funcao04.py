@@ -1,4 +1,4 @@
-from funcao import *
+from Aula01.funcao import *
 
 def test_email_valido():
     assert email_valido("josebrenosilva14@gmail.com") is True
