@@ -19,3 +19,5 @@ def coleta_salario(salario, comissao, inss):
         "desconto_inss": desconto_inss,
         "salario_liquido": salario_liquido
      }
+print(coleta_salario(10000, 10, 12))
+print(coleta_dados("breno", "20", "48996146493", "josebrenosilva0@gmail.com"))

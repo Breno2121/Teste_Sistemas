@@ -4,4 +4,3 @@ def validar_cadastro(nome,telefone, email, idade):
 
 def validar_salario(salario, comissao, inss):
    return salario + (salario * comissao) - (salario * inss)
-
